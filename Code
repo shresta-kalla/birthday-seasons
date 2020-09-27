@@ -1,0 +1,5 @@
+name = input("Enter your name:")
+month = input("What month were you born(enter as number 1-12):")
+day = input("What day were you born:")
+month = int(month)
+day = int(day)
