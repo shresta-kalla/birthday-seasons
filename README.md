@@ -24,5 +24,8 @@ elif(3 <= month <= 5):
 else:
   season = "Winter"
   ```
-  
+
+**The reason we, as project admins/contributors, went with this CODE OF CONDUCT is because it easily fulfills all the requirements and information that we believe
+should be explained in the contract. It clarifies our mission, values and principles, and this code articulates the values this project wishes to foster in leaders and employees.**
+
 ![alt-text](https://media.giphy.com/media/RlZouK6QqVVHNIxp6I/giphy.gif)
