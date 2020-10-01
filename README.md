@@ -6,8 +6,9 @@
 - Shresta Kalla
 - Shreya Kalla
 
-```python
-import numpy as np
+**This snipet of code is to allow the user to interact with the question given, and enter whatever is applicable to them.(You are free to enter whatever name & birthday as you wish!).**
 
-a = np.arange(15).reshape(3, 5)
+```python
+name = input("Enter your name:")
+month = input("What month were you born(enter as number 1-12):")
 ```
