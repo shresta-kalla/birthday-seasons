@@ -12,4 +12,17 @@
 name = input("Enter your name:")
 month = input("What month were you born(enter as number 1-12):")
 ```
+
+**This snippet of code creates a decision structure that will allow the user's input to fall within one of these four months. For instance, if the user inputs June(i.e the number 6), then the output will return 'Summer".**
+```python
+if(6 <= month <=8):
+  season = "Summer"
+elif(9 <=month <= 11):
+  season = "Fall"
+elif(3 <= month <= 5):
+  season = "Spring"
+else:
+  season = "Winter"
+  ```
+  
 ![alt-text](https://media.giphy.com/media/RlZouK6QqVVHNIxp6I/giphy.gif)
